@@ -1,11 +1,28 @@
 configuration:
   min_stars: 10
+  min_projectrank: 5
   require_github: True
   allowed_licenses: ["all"]
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
   projects_history_folder: "history"
 
+categories:
+  - category: "big-data"
+    title: "Machine Learning & Data Engineering"
+    subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "web-dev"
+    title: "Web Development"
+    subtitle: "Best-of lists about react, vue, angular, html5, css, or other topics related to web development."
+
+labels:
+  - label: "python"
+    image: "https://www.python.org/static/favicon.ico"
+    url: "https://www.python.org/"
+    description: "Best-of list is related to Python"
+
 projects:
   - name: best-of-ml-python
     github_id: ml-tooling/best-of-ml-python
+    labels: ["python"]
+    category: "big-data"
