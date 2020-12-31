@@ -18,8 +18,7 @@ categories:
 labels:
   - label: "python"
     image: "https://www.python.org/static/favicon.ico"
-    url: "https://www.python.org/"
-    description: "Best-of list is related to Python"
+    description: "Best-of list with Python projects"
 
 projects:
   - name: best-of-ml-python

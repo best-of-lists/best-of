@@ -1,8 +1,6 @@
 configuration:
-  allowed_licenses: ["all"]
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
-  projects_history_folder: "history"
 
 categories:
 #  - category: "big-data"
@@ -12,8 +10,7 @@ categories:
 labels:
 #  - label: "python"
 #    image: "https://www.python.org/static/favicon.ico"
-#    url: "https://www.python.org/"
-#    description: "Best-of list is related to Python"
+#    description: "Best-of list with Python projects"
 
 projects:
 #  - name: best-of-ml-python
