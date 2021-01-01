@@ -59,6 +59,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: sync-labels
+        # Alternative actions:
+        # https://github.com/crazy-max/ghaction-github-labeler
+        # https://github.com/EndBug/label-sync
         uses: micnncim/action-label-syncer@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
