@@ -1,6 +1,6 @@
 ---
 name: "📦 Suggest a project"
-about: Do you like to suggest a project that hasn't been added yet to this best-of list?
+about: "Do you like to suggest a project that hasn't been added to this best-of list yet?"
 title: 'Add project: '
 labels: 'add-project'
 assignees: ''
@@ -18,7 +18,7 @@ Please make sure that the project was not already added or suggested to this bes
 - Github URL:
 - Category:  <!-- Choose one of the existing categories from the Readme or projects.yaml file -->
 - License:
-- Package Managers: <!-- Add the IDs for every package manager that the project is available on. -->
+- Package Managers: <!-- Add the IDs for every package manager that the project is available on. Tick of the package manager with: [] -> [x]  -->
     - [ ] npm:
     - [ ] PyPI:
     - [ ] Conda:

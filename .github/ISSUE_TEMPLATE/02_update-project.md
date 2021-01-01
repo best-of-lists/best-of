@@ -14,7 +14,8 @@ Please state the project name that this update is referring to and list all info
 -->
 
 - Project Name:
-- <!--- State all information that needs to be updated. -->
+
+<!--- State all information that needs to be updated. -->
 
 **Additional context:**
 

@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-Please select either to add or to update a category:
+Please select either to add or to update a category. Tick of with: [] -> [x]
 -->
 
 - [ ] Add category
