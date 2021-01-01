@@ -25,10 +25,10 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     ```yaml
     - name: Tensorflow
       github_id: tensorflow/tensorflow
-      category: ml-frameworks
       pypi_id: tensorflow
       conda_id: tensorflow
       labels: ["tensorflow"]
+      category: ml-frameworks
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
