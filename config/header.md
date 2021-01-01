@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome best-of lists. Updated weekly.</strong>
+    <strong>🏆&nbsp; Discover best-of lists with awesome open-source projects on all kinds of topics.</strong>
 </p>
 
 <p align="center">
