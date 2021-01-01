@@ -4,15 +4,15 @@
 - name: update-project
   color: a2eeef
   description: "Update a project on the best-of list"
-- name: categories
+- name: category
   color: a2eeef
-  description: "Add or update a category to best-of list"
+  description: "Add or update a category to the best-of list"
 - name: configuration
   color: a2eeef
-  description: "Issue refers to best-of configuration"
+  description: "Issue refers to the best-of list configuration"
 - name: generation
   color: a2eeef
-  description: "Issue refers to best-of markdown generation"
+  description: "Issue refers to the best-of markdown generation"
 - name: question
   color: a2eeef
   description: "Further information is requested"

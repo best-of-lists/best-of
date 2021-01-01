@@ -2,7 +2,7 @@
 name: "📦 Suggest a project"
 about: Do you like to suggest a project that hasn't been added yet to this best-of list?
 title: 'Add project: '
-labels: add-project
+labels: 'add-project'
 assignees: ''
 
 ---

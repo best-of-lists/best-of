@@ -2,7 +2,7 @@
 name: "\U0001F4AC Anything else?"
 about: For questions or suggestions regarding the metadata collection or markdown generation, please refer to the ml-tooling/best-of-generator repository.
 title: ''
-labels: ''
+labels: 'question'
 assignees: ''
 
 ---

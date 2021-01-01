@@ -2,7 +2,7 @@
 name: "🏷 Add or update a category"
 about: Do you like to suggest a new project category or update an existing one?
 title: ''
-labels: categories
+labels: 'category'
 assignees: ''
 
 ---
