@@ -3,7 +3,7 @@
 
 ## Related Resources
 
-- [**Best-of**](https://github.com/ml-tooling/best-of): Best-of lists about all kinds of interesting topics.
+- [**Best-of lists**](https://github.com/ml-tooling/best-of): Discover other best-of lists with awesome open-source projects about all kinds of interesting topics.
 
 ## Contribution
 
