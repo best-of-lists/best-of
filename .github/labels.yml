@@ -1,0 +1,78 @@
+- name: add-project
+  color: a2eeef
+  description: "Add new project to best-of list"
+- name: "awaiting review"
+  color: FF7F50
+  description: "This pull request needs to be reviewed"
+- name: bug
+  color: d73a4a
+  description: "Something isn't working"
+- name: categories
+  color: a2eeef
+  description: "Add or update a category to best-of list"
+- name: configuration
+  color: a2eeef
+  description: "Issue refers to best-of configuration"
+- name: confirmed
+  color: cfd3d7
+  description: "Issues have been verified and should be fixed"
+- name: duplicate
+  color: cfd3d7
+  description: "This issue or pull request already exists"
+- name: "further input needed"
+  color: cfd3d7
+  description: "Not enough detail is provided by the creator"
+- name: generation
+  color: a2eeef
+  description: "Issue refers to markdown generation"
+- name: "good first issue"
+  color: 98FF98
+  description: "Good for newcomers"
+- name: "help wanted"
+  color: 98FF98
+  description: "Extra attention is needed"
+- name: "in progress"
+  color: FF7F50
+  description: "The issue is currently being resolved"
+- name: "in review"
+  color: FF7F50
+  description: "This issue is currently being reviewed"
+- name: invalid
+  color: cfd3d7
+  description: "This doesn't seem right"
+- name: maintenance
+  color: a2eeef
+  description: "Improvements to tooling, testing, deployments, infrastructure, or code style"
+- name: next
+  color: FF7F50
+  description: "Will be worked on soon"
+- name: "not reproducible"
+  color: cfd3d7
+  description: "Given the information provided, we were not able to recreate the issue"
+- name: "on hold"
+  color: FF7F50
+  description: "This issue is currently on hold"
+- name: "prio: ★"
+  color: fbca04
+  description: "Low priority"
+- name: "prio: ★★"
+  color: fbca04
+  description: "Medium priority"
+- name: "prio: ★★★"
+  color: fbca04
+  description: "High priority"
+- name: question
+  color: a2eeef
+  description: "Further information is requested"
+- name: stale
+  color: cfd3d7
+  description: "Awaiting input from creator for prolonged time period"
+- name: support
+  color: a2eeef
+  description: "Usage or installation support is requested"
+- name: update-project
+  color: a2eeef
+  description: "Update a project on the best-of list"
+- name: wontfix
+  color: cfd3d7
+  description: "This will not be worked on"
