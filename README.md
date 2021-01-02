@@ -17,7 +17,7 @@
     <a href="https://twitter.com/best_of_lists" title="Best-of on Twitter"><img src="https://img.shields.io/twitter/follow/best_of_lists.svg?style=social&label=Follow"></a>
 </p>
 
-This curated list contains 2 awesome best-of lists with a total of 42 stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome best-of lists with a total of 42 stars grouped into 2 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
 
 ## Contents
 
@@ -57,9 +57,13 @@ _Best-of lists about machine learning, data engieering, data science, or other t
 	git clone https://github.com/ml-tooling/best-of-ml-python
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥉6 ·  ⭐ 1) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- <b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥉6 ·  ⭐ 1 · ➕) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- [GitHub](https://github.com/ml-tooling/best-of-jupyter) (⏱️ 01.01.2021):
+
+	```
+	git clone https://github.com/ml-tooling/best-of-jupyter
+	```
 </details>
 <br>
 
@@ -80,12 +84,12 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/ml-tooling/best-of/issues/new/choose) and fill in the requested information.
-- Modify the [projects.yaml](https://github.com/ml-tooling/best-of/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/ml-tooling/best-of/edit/main/projects.yaml).
+- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) and fill in the requested information.
+- Modify the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml).
 
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/ml-tooling/best-of-generator) repository.
+If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/ml-tooling/best-of/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/ml-tooling/best-of/blob/main/.github/CODE_OF_CONDUCT.md).
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/best-of-lists/best-of/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## License
 
