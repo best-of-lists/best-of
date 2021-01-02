@@ -60,7 +60,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     </tr>
     <tr>
         <td>github_id</td>
-        <td>Github ID of the project based on user or organization  and the repository name (e.g. <code>ml-tooling/best-of-generator</code>).</td>
+        <td>Github ID of the project based on user or organization  and the repository name (e.g. <code>best-of-lists/best-of-generator</code>).</td>
     </tr>
     <tr>
         <td>category</td>
@@ -112,11 +112,11 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
 
 ## Improve metadata collection
 
-If you like to contribute to or share suggestions regarding the project metadata collection, please refer to the [best-of-generator](https://github.com/ml-tooling/best-of-generator) repository.
+If you like to contribute to or share suggestions regarding the project metadata collection, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
 
 ## Improve markdown generation
 
-If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/ml-tooling/best-of-generator) repository.
+If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
 
 ## Code of Conduct
 

@@ -15,8 +15,8 @@ Thanks for your interest in contributing to our project. This page will give you
 
 If you like to suggest or add a project, choose one of the following ways:
 
-- Suggest a project by opening an issue: Please use the suggest project template from the [issue page](https://github.com/ml-tooling/best-of/issues/new/choose) and fill in the requested information.
-- Add a project by modifying the [projects.yaml](https://github.com/ml-tooling/best-of/blob/main/projects.yaml) and submitting a pull request with your addition. This can also be done directly via the [Github UI](https://github.com/ml-tooling/best-of/edit/main/projects.yaml).
+- Suggest a project by opening an issue: Please use the suggest project template from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) and fill in the requested information.
+- Add a project by modifying the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) and submitting a pull request with your addition. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml).
 
 Before opening an issue or pull request, please ensure that you adhere to the following guidelines:
 
@@ -25,21 +25,21 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     ```yaml
     - name: Tensorflow
       github_id: tensorflow/tensorflow
-      category: ml-frameworks
       pypi_id: tensorflow
       conda_id: tensorflow
       labels: ["tensorflow"]
+      category: ml-frameworks
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
-- If a project doesn't fit any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/ml-tooling/best-of/issues/new/choose).
+- If a project doesn't fit any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose).
 
 ## Update a project
 
 If you like to suggest or contribute a project update, choose one of the following ways:
 
-- Suggest a project update by opening an issue: Please use the update project template from the [issue page](https://github.com/ml-tooling/best-of/issues/new/choose) and fill in the requested information.
-- Update a project by modifying the [projects.yaml](https://github.com/ml-tooling/best-of/blob/main/projects.yaml) and submitting a pull request with your changes. This can also be done directly via the [Github UI](https://github.com/ml-tooling/best-of/edit/main/projects.yaml).
+- Suggest a project update by opening an issue: Please use the update project template from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) and fill in the requested information.
+- Update a project by modifying the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) and submitting a pull request with your changes. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml).
 
 Before opening an issue or pull request, please ensure that you adhere to the following guidelines:
 
@@ -60,7 +60,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     </tr>
     <tr>
         <td>github_id</td>
-        <td>Github ID of the project based on user or organization  and the repository name (e.g. <code>ml-tooling/best-of-generator</code>).</td>
+        <td>Github ID of the project based on user or organization  and the repository name (e.g. <code>best-of-lists/best-of-generator</code>).</td>
     </tr>
     <tr>
         <td>category</td>
@@ -112,11 +112,11 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
 
 ## Improve metadata collection
 
-If you like to contribute to or share suggestions regarding the project metadata collection, please refer to the [best-of-generator](https://github.com/ml-tooling/best-of-generator) repository.
+If you like to contribute to or share suggestions regarding the project metadata collection, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
 
 ## Improve markdown generation
 
-If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/ml-tooling/best-of-generator) repository.
+If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
 
 ## Code of Conduct
 
