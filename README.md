@@ -5,23 +5,23 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome best-of lists. Updated weekly.</strong>
+    <strong>🏆&nbsp; Discover best-of lists with awesome open-source projects on all kinds of topics.</strong>
 </p>
 
 <p align="center">
-    <a href="https://github.com/ml-tooling/best-of" title="Best-of-badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-1-blue.svg?color=5ac4bf"></a>
+    <a href="https://github.com/best-of-lists/best-of" title="Best-of-badge"><img src="http://bit.ly/3o3EHNN"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-2-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/ml-tooling/best-of/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/ml-tooling/best-of?color=green&label=updated"></a>
-    <a href="https://mltooling.substack.com/subscribe" title="Subscribe to ML Tooling"><img src="http://bit.ly/2Md9rxM"></a>
-    <a href="https://twitter.com/mltooling" title="ML Tooling on Twitter"><img src="https://img.shields.io/twitter/follow/best_of_lists.svg?style=social&label=Follow"></a>
+    <a href="https://github.com/best-of-lists/best-of/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/best-of-lists/best-of?color=green&label=updated"></a>
+    <a href="https://bestoflists.substack.com/subscribe" title="Subscribe for updates"><img src="http://bit.ly/2Md9rxM"></a>
+    <a href="https://twitter.com/best_of_lists" title="Best-of on Twitter"><img src="https://img.shields.io/twitter/follow/best_of_lists.svg?style=social&label=Follow"></a>
 </p>
 
-This curated list contains 1 awesome best-of lists with a total of 39 stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/ml-tooling/best-of/issues/new/choose), submit a [pull request](https://github.com/ml-tooling/best-of/pulls), or directly edit the [projects.yaml](https://github.com/ml-tooling/best-of/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome best-of lists with a total of 42 stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
 
 ## Contents
 
-- [Machine Learning & Data Engineering](#machine-learning--data-engineering) _1 projects_
+- [Machine Learning & Data Engineering](#machine-learning--data-engineering) _2 projects_
 - [Web Development](#web-development) _0 projects_
 
 ## Explanation
@@ -45,23 +45,27 @@ This curated list contains 1 awesome best-of lists with a total of 39 stars grou
 
 ## Machine Learning & Data Engineering
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://i.ibb.co/2PS8bhR/up-arrow.png" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
 _Best-of lists about machine learning, data engieering, data science, or other topics related to big data._
 
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-ml-python">best-of-ml-python</a></b> (🥇9 ·  ⭐ 39 · 🐣) - A ranked list of awesome machine learning python.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-ml-python">best-of-ml-python</a></b> (🥇8 ·  ⭐ 41 · 🐣) - A ranked list of awesome machine learning python.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-ml-python) (👨‍💻 1 · 🔀 1 · ⏱️ 28.12.2020):
+- [GitHub](https://github.com/ml-tooling/best-of-ml-python) (👨‍💻 1 · 🔀 1 · ⏱️ 01.01.2021):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-ml-python
 	```
 </details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥉6 ·  ⭐ 1 · ➕) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+</details>
 <br>
 
 ## Web Development
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://i.ibb.co/2PS8bhR/up-arrow.png" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
 _Best-of lists about react, vue, angular, html5, css, or other topics related to web development._
 
