@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/best-of-lists/best-of" title="Best-of-badge"><img src="http://bit.ly/3o3EHNN"></a>
+    <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-{project_count}-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/best-of-lists/best-of-template/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/best-of-lists/best-of-template?color=green&label=updated"></a>
