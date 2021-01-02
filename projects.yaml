@@ -1,6 +1,6 @@
 configuration:
-  min_stars: 10
-  min_projectrank: 5
+  min_stars: 0
+  min_projectrank: 0
   require_github: True
   allowed_licenses: ["all"]
   markdown_header_file: "config/header.md"
