@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-lists/best-of-template
+    best-of-template
     <br>
 </h1>
 
