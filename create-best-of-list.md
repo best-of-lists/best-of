@@ -1,6 +1,6 @@
 # Create your own best-of list
 
-Welcome ❤️ It is awesome that you want to create your own best-of list! It will probably only take around 3-4 minutes to get you started ⏱️
+Welcome ❤️ It is awesome that you want to create your own best-of list! It will only take around 3-4 minutes to get you started ⏱️
 
 1. **Create a new repository based on the [best-of template](https://github.com/best-of-lists/best-of/generate)**.
     <details>
