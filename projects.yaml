@@ -9,7 +9,7 @@ configuration:
   projects_history_folder: "history"
 
 categories:
-  - category: "big-data"
+  - category: "data-engineering"
     title: "Machine Learning & Data Engineering"
     subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
   - category: "web-dev"
@@ -25,8 +25,8 @@ projects:
   - name: best-of-ml-python
     github_id: ml-tooling/best-of-ml-python
     labels: ["python"]
-    category: "big-data"
+    category: "data-engineering"
   - name: best-of-jupyter
     github_id: ml-tooling/best-of-jupyter
     labels: ["python"]
-    category: "big-data"
+    category: "data-engineering"
