@@ -9,7 +9,8 @@ Thanks for your interest in contributing to our project. This page will give you
 2. [Update a project](#update-a-project)
 3. [Improve metadata collection](#improve-metadata-collection)
 4. [Improve markdown generation](#improve-markdown-generation)
-5. [Code of conduct](#code-of-conduct)
+5. [Create your own best-of list](#improve-markdown-generation)
+6. [Code of conduct](#code-of-conduct)
 
 ## Add a project
 
@@ -107,6 +108,10 @@ If you like to contribute to or share suggestions regarding the project metadata
 ## Improve markdown generation
 
 If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
+
+## Create your own best-of list
+
+If you want to create your own best-of list, we strongly recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md). With this guide, it will only take about 3 minutes to get you started. It is already set-up to automatically run the best-of generator via our Github Action and includes other useful template files.
 
 ## Code of Conduct
 
