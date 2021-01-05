@@ -3,7 +3,7 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "big-data"
+  # - category: "data-engineering"
   #   title: "Machine Learning & Data Engineering"
   #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
 
@@ -16,4 +16,4 @@ projects:
   # - name: best-of-ml-python
   #   github_id: ml-tooling/best-of-ml-python
   #   labels: ["python"]
-  #   category: "big-data"
+  #   category: "data-engineering"
