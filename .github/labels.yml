@@ -13,6 +13,9 @@
 - name: generation
   color: a2eeef
   description: "Issue refers to the best-of markdown generation"
+- name: collection
+  color: a2eeef
+  description: "Issue refers to the project metadata collection"
 - name: question
   color: a2eeef
   description: "Further information is requested"
