@@ -7,7 +7,7 @@
 
 ## Contribution
 
-Contributions are encouraged and always welcome ❤️ If you like to add or update projects, choose one of the following ways:
+Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
 - Open an issue by selecting one of the provided categories from the [issue page](https://github.com/best-of-lists/best-of-template/issues/new/choose) and fill in the requested information.
 - Modify the [projects.yaml](https://github.com/best-of-lists/best-of-template/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of-template/edit/main/projects.yaml).
