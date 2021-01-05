@@ -1,3 +1,4 @@
+# Based on https://github.com/best-of-lists/best-of/blob/main/.github/workflows/setup-best-of-list.yml
 name: setup-best-of-list
 
 on:
@@ -39,7 +40,7 @@ jobs:
           sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./config/footer.md
           sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./config/header.md
           sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./CONTRIBUTING.md
-          sed -i 's:$(echo "${{ env.PLACEHOLDER_REPO }}" | sed "s:.*/::"):$(echo "'$GITHUB_REPOSITORY'" | sed "s:.*/::"):g' ./config/header.md
+          sed -i 's:'$(echo "${{ env.PLACEHOLDER_REPO }}" | sed "s:.*/::")':'$(echo "$GITHUB_REPOSITORY" | sed "s:.*/::")':g' ./config/header.md
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
