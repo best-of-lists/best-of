@@ -33,7 +33,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
-- If a project doesn't fit any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/best-of-lists/best-of-template/issues/new/choose).
+- If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/best-of-lists/best-of-template/issues/new/choose).
 
 ## Update a project
 
@@ -61,7 +61,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     </tr>
     <tr>
         <td><code>github_id</code></td>
-        <td>Github ID of the project based on user or organization  and the repository name, e.g. <code>best-of-lists/best-of-generator</code>.</td>
+        <td>Github ID of the project based on user or organization and the repository name, e.g. <code>best-of-lists/best-of-generator</code>.</td>
     </tr>
     <tr>
         <td colspan="2"><b>Optional Properties:</b></td>
@@ -91,7 +91,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     </tr>
     <tr>
         <td><code>dockerhub_id</code></td>
-        <td>Project ID on the <a href="https://hub.docker.com">Dockerhub container registry</a>. </td>
+        <td>Project ID on the <a href="https://hub.docker.com">Docker Hub container registry</a>. </td>
     </tr>
     <tr>
         <td><code>maven_id</code></td>
