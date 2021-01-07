@@ -30,3 +30,7 @@ projects:
     github_id: ml-tooling/best-of-jupyter
     labels: ["python"]
     category: "data-engineering"
+  - name: best-of-web-python
+    github_id: ml-tooling/best-of-web-python
+    labels: ["python"]
+    category: "web-dev"
