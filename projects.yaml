@@ -15,6 +15,12 @@ categories:
   - category: "web-dev"
     title: "Web Development"
     subtitle: "Best-of lists about react, vue, angular, html5, css, or other topics related to web development."
+  - category: "dev-tools"
+    title: "Development Tools"
+    subtitle: "Best-of lists about tools & libraries to help with software development."
+  - category: "programming-languages"
+    title: "Programming Languages"
+    subtitle: "Best-of lists with general overviews on tools & libraries for a specific programming language."
 
 labels:
   - label: "python"
@@ -38,3 +44,11 @@ projects:
     github_id: jrieke/best-of-streamlit
     labels: ["python"]
     category: "data-engineering"
+  - name: best-of-python
+    github_id: ml-tooling/best-of-python
+    labels: ["python"]
+    category: "programming-languages"
+  - name: best-of-python-dev
+    github_id: ml-tooling/best-of-python-dev
+    labels: ["python"]
+    category: "dev-tools"
