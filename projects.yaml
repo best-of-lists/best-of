@@ -34,3 +34,7 @@ projects:
     github_id: ml-tooling/best-of-web-python
     labels: ["python"]
     category: "web-dev"
+  - name: best-of-streamlit
+    github_id: jrieke/best-of-streamlit
+    labels: ["python"]
+    category: "data-engineering"
