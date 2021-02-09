@@ -52,3 +52,9 @@ projects:
     github_id: ml-tooling/best-of-python-dev
     labels: ["python"]
     category: "dev-tools"
+  - name: best-of-ml-julia
+    github_id: e-tony/best-of-ml-julia
+    category: "data-engineering"
+  - name: best-of-ml-rust
+    github_id: e-tony/best-of-ml-rust
+    category: "data-engineering"
