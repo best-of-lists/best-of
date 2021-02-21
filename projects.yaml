@@ -58,3 +58,6 @@ projects:
   - name: best-of-ml-rust
     github_id: e-tony/best-of-ml-rust
     category: "data-engineering"
+  - name: best-of-react
+    github_id: LukasMasuch/best-of-react
+    category: "web-development"
