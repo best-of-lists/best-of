@@ -60,4 +60,5 @@ projects:
     category: "data-engineering"
   - name: best-of-react
     github_id: LukasMasuch/best-of-react
-    category: "web-development"
+    labels: ["javascript"]
+    category: "web-dev"
