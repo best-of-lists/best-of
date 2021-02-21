@@ -26,7 +26,10 @@ labels:
   - label: "python"
     image: "https://www.python.org/static/favicon.ico"
     description: "Best-of list with Python projects"
-
+  - label: "javascript"
+    image: "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"
+    description: "Best-of list with JavaScript projects"
+ 
 projects:
   - name: best-of-ml-python
     github_id: ml-tooling/best-of-ml-python
