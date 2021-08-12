@@ -15,7 +15,7 @@
     <a href="https://github.com/best-of-lists/best-of/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/best-of-lists/best-of?color=green&label=updated"></a>
 </p>
 
-This curated list contains 9 best-of lists with a total of 9.3K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 9 best-of lists with a total of 9.5K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️ Create your own best-of list in just 3 minutes with [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -51,39 +51,39 @@ This curated list contains 9 best-of lists with a total of 9.3K stars grouped in
 
 _Best-of lists about machine learning, data engieering, data science, or other topics related to big data._
 
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-ml-python">best-of-ml-python</a></b> (🥇15 ·  ⭐ 5.5K) - A ranked list of awesome machine learning Python libraries... <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-ml-python">best-of-ml-python</a></b> (🥇15 ·  ⭐ 5.6K) - A ranked list of awesome machine learning Python libraries... <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-ml-python) (👨‍💻 19 · 🔀 700 · 📋 23 - 21% open · ⏱️ 11.07.2021):
+- [GitHub](https://github.com/ml-tooling/best-of-ml-python) (👨‍💻 19 · 🔀 710 · 📋 23 - 21% open · ⏱️ 16.07.2021):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-ml-python
 	```
 </details>
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥈13 ·  ⭐ 300 · 🐣) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥈13 ·  ⭐ 310) - A ranked list of awesome Jupyter Notebook, Hub and Lab projects.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-jupyter) (👨‍💻 7 · 🔀 35 · ⏱️ 11.07.2021):
+- [GitHub](https://github.com/ml-tooling/best-of-jupyter) (👨‍💻 7 · 🔀 35 · ⏱️ 16.07.2021):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-jupyter
 	```
 </details>
-<details><summary><b><a href="https://github.com/jrieke/best-of-streamlit">best-of-streamlit</a></b> (🥉12 ·  ⭐ 230 · 🐣) - A ranked gallery of awesome streamlit apps built by the.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jrieke/best-of-streamlit">best-of-streamlit</a></b> (🥈13 ·  ⭐ 240 · 📈) - A ranked gallery of awesome streamlit apps built by the.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jrieke/best-of-streamlit) (👨‍💻 4 · 🔀 20 · 📋 6 - 33% open · ⏱️ 03.05.2021):
+- [GitHub](https://github.com/jrieke/best-of-streamlit) (👨‍💻 4 · 🔀 24 · 📋 18 - 77% open · ⏱️ 03.05.2021):
 
 	```
 	git clone https://github.com/jrieke/best-of-streamlit
 	```
 </details>
-<details><summary><b><a href="https://github.com/e-tony/best-of-ml-rust">best-of-ml-rust</a></b> (🥉8 ·  ⭐ 63 · 🐣) - A ranked list of awesome machine learning Rust libraries.</summary>
+<details><summary><b><a href="https://github.com/e-tony/best-of-ml-rust">best-of-ml-rust</a></b> (🥉9 ·  ⭐ 64 · 🐣) - A ranked list of awesome machine learning Rust libraries.</summary>
 
-- [GitHub](https://github.com/e-tony/best-of-ml-rust) (👨‍💻 1 · 🔀 1 · ⏱️ 21.06.2021):
+- [GitHub](https://github.com/e-tony/best-of-ml-rust) (👨‍💻 1 · 🔀 1 · ⏱️ 09.08.2021):
 
 	```
 	git clone https://github.com/e-tony/best-of-ml-rust
 	```
 </details>
-<details><summary><b><a href="https://github.com/e-tony/best-of-ml-julia">best-of-ml-julia</a></b> (🥉8 ·  ⭐ 3 · 🐣) - A ranked list of awesome machine learning Julia libraries.</summary>
+<details><summary><b><a href="https://github.com/e-tony/best-of-ml-julia">best-of-ml-julia</a></b> (🥉9 ·  ⭐ 3 · 🐣) - A ranked list of awesome machine learning Julia libraries.</summary>
 
 - [GitHub](https://github.com/e-tony/best-of-ml-julia) (⏱️ 12.07.2021):
 
@@ -99,17 +99,17 @@ _Best-of lists about machine learning, data engieering, data science, or other t
 
 _Best-of lists about react, vue, angular, html5, css, or other topics related to web development._
 
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-web-python">best-of-web-python</a></b> (🥇14 ·  ⭐ 1.3K · 🐣) - A ranked list of awesome python libraries for web.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-web-python">best-of-web-python</a></b> (🥇14 ·  ⭐ 1.3K) - A ranked list of awesome python libraries for web.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-web-python) (👨‍💻 6 · 🔀 84 · ⏱️ 11.07.2021):
+- [GitHub](https://github.com/ml-tooling/best-of-web-python) (👨‍💻 6 · 🔀 86 · 📋 3 - 33% open · ⏱️ 16.07.2021):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-web-python
 	```
 </details>
-<details><summary><b><a href="https://github.com/LukasMasuch/best-of-react">best-of-react</a></b> (🥉8 ·  ⭐ 7 · 🐣) - A ranked list of awesome React open-source libraries and tools... <code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/LukasMasuch/best-of-react">best-of-react</a></b> (🥉9 ·  ⭐ 8 · 🐣) - A ranked list of awesome React open-source libraries and tools... <code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/LukasMasuch/best-of-react) (⏱️ 09.07.2021):
+- [GitHub](https://github.com/LukasMasuch/best-of-react) (⏱️ 03.08.2021):
 
 	```
 	git clone https://github.com/LukasMasuch/best-of-react
@@ -123,9 +123,9 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 
 _Best-of lists about tools & libraries to help with software development._
 
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇11 ·  ⭐ 300 · 🐣) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇11 ·  ⭐ 320) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 2 · 🔀 17 · 📋 6 - 16% open · ⏱️ 11.07.2021):
+- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 2 · 🔀 17 · 📋 6 - 16% open · ⏱️ 16.07.2021):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-python-dev
@@ -139,9 +139,9 @@ _Best-of lists about tools & libraries to help with software development._
 
 _Best-of lists with general overviews on tools & libraries for a specific programming language._
 
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-python">best-of-python</a></b> (🥇14 ·  ⭐ 1.7K · 🐣) - A ranked list of awesome Python open-source libraries and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-python">best-of-python</a></b> (🥇14 ·  ⭐ 1.7K) - A ranked list of awesome Python open-source libraries and tools... <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-python) (👨‍💻 5 · 🔀 130 · 📋 5 - 20% open · ⏱️ 11.07.2021):
+- [GitHub](https://github.com/ml-tooling/best-of-python) (👨‍💻 5 · 🔀 130 · 📋 5 - 20% open · ⏱️ 16.07.2021):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-python
