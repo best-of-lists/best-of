@@ -71,6 +71,9 @@ projects:
     github_id: lukasmasuch/best-of-react
     labels: ["javascript"]
     category: "web-dev"
+  - name: best-of-mkdocs
+    github_id: pawamoy/best-of-mkdocs
+    category: "dev-tools"
   - name: best-of-crypto
     github_id: lukasmasuch/best-of-crypto
     category: "blockchain"
