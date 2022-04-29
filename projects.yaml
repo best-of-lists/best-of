@@ -80,3 +80,6 @@ projects:
   - name: best-of-crypto
     github_id: lukasmasuch/best-of-crypto
     category: "blockchain"
+  - name: thumbor/awesome-thumbor
+    github_id: thumbor/awesome-thumbor
+ 
