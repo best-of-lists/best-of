@@ -62,10 +62,10 @@ projects:
     labels: ["python"]
     category: "dev-tools"
   - name: best-of-ml-julia
-    github_id: e-tony/best-of-ml-julia
+    github_id: e-tornike/best-of-ml-julia
     category: "data-engineering"
   - name: best-of-ml-rust
-    github_id: e-tony/best-of-ml-rust
+    github_id: e-tornike/best-of-ml-rust
     category: "data-engineering"
   - name: best-of-react
     github_id: lukasmasuch/best-of-react
