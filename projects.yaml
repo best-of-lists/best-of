@@ -18,15 +18,15 @@ categories:
   - category: "dev-tools"
     title: "Development Tools"
     subtitle: "Best-of lists about tools & libraries to help with software development."
+  - category: "documentation"
+    title: "Documentation"
+    subtitle: "Best-of lists about documentations & tools to create documentations."
   - category: "programming-languages"
     title: "Programming Languages"
     subtitle: "Best-of lists with general overviews on tools & libraries for a specific programming language."
   - category: "blockchain"
     title: "Cryptocurrencies & Blockchain"
     subtitle: "Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics related to blockchain."
-
-
-
 
 labels:
   - label: "python"
@@ -73,7 +73,10 @@ projects:
     category: "web-dev"
   - name: best-of-mkdocs
     github_id: pawamoy/best-of-mkdocs
-    category: "dev-tools"
+    category: "documentation"
+  - name: best-of-digital-gardens
+    github_id: lyz-code/best-of-digital-gardens
+    category: "documentation"
   - name: best-of-crypto
     github_id: lukasmasuch/best-of-crypto
     category: "blockchain"
