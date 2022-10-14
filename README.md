@@ -99,9 +99,9 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 	git clone https://github.com/ml-tooling/best-of-web-python
 	```
 </details>
-<details><summary><b><a href="https://github.com/LukasMasuch/best-of-react">best-of-react</a></b> (🥉15 ·  ⭐ 300) - A ranked list of awesome React open-source libraries and tools... <code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/LukasMasuch/best-of-react">best-of-react</a></b> (🥉15 ·  ⭐ 310) - A ranked list of awesome React open-source libraries and tools... <code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/LukasMasuch/best-of-react) (👨‍💻 5 · 🔀 23 · ⏱️ 06.10.2022):
+- [GitHub](https://github.com/LukasMasuch/best-of-react) (👨‍💻 5 · 🔀 25 · ⏱️ 06.10.2022):
 
 	```
 	git clone https://github.com/lukasmasuch/best-of-react
@@ -115,9 +115,9 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 
 _Best-of lists about tools & libraries to help with software development._
 
-<details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇15 ·  ⭐ 590) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇15 ·  ⭐ 600) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 5 · 🔀 31 · 📋 7 - 28% open · ⏱️ 06.10.2022):
+- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 5 · 🔀 32 · 📋 7 - 28% open · ⏱️ 06.10.2022):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-python-dev
@@ -131,17 +131,17 @@ _Best-of lists about tools & libraries to help with software development._
 
 _Best-of lists about documentations & tools to create documentations._
 
-<details><summary><b><a href="https://github.com/pawamoy/best-of-mkdocs">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 58 · 🐣) - A ranked list of awesome MkDocs projects and plugins.</summary>
+<details><summary><b><a href="https://github.com/pawamoy/best-of-mkdocs">best-of-mkdocs</a></b> (🥇12 ·  ⭐ 59 · 🐣) - A ranked list of awesome MkDocs projects and plugins.</summary>
 
-- [GitHub](https://github.com/pawamoy/best-of-mkdocs) (👨‍💻 4 · 🔀 3 · 📋 3 - 33% open · ⏱️ 06.10.2022):
+- [GitHub](https://github.com/pawamoy/best-of-mkdocs) (👨‍💻 4 · 🔀 3 · 📋 3 - 33% open · ⏱️ 13.10.2022):
 
 	```
 	git clone https://github.com/pawamoy/best-of-mkdocs
 	```
 </details>
-<details><summary><b><a href="https://github.com/lyz-code/best-of-digital-gardens">best-of-digital-gardens</a></b> (🥉10 ·  ⭐ 74 · 🐣) - Ranked list of awesome digital gardens / second brains.</summary>
+<details><summary><b><a href="https://github.com/lyz-code/best-of-digital-gardens">best-of-digital-gardens</a></b> (🥉10 ·  ⭐ 76 · 🐣) - Ranked list of awesome digital gardens / second brains.</summary>
 
-- [GitHub](https://github.com/lyz-code/best-of-digital-gardens) (👨‍💻 10 · 🔀 8 · ⏱️ 05.10.2022):
+- [GitHub](https://github.com/lyz-code/best-of-digital-gardens) (👨‍💻 10 · 🔀 8 · ⏱️ 12.10.2022):
 
 	```
 	git clone https://github.com/lyz-code/best-of-digital-gardens
@@ -171,9 +171,9 @@ _Best-of lists with general overviews on tools & libraries for a specific progra
 
 _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics related to blockchain._
 
-<details><summary><b><a href="https://github.com/LukasMasuch/best-of-crypto">best-of-crypto</a></b> (🥇12 ·  ⭐ 60) - A ranked list of awesome open-source crypto projects. Updated weekly.</summary>
+<details><summary><b><a href="https://github.com/LukasMasuch/best-of-crypto">best-of-crypto</a></b> (🥇13 ·  ⭐ 61 · 📈) - A ranked list of awesome open-source crypto projects. Updated weekly.</summary>
 
-- [GitHub](https://github.com/LukasMasuch/best-of-crypto) (👨‍💻 3 · 🔀 13 · ⏱️ 05.10.2022):
+- [GitHub](https://github.com/LukasMasuch/best-of-crypto) (👨‍💻 3 · 🔀 14 · ⏱️ 12.10.2022):
 
 	```
 	git clone https://github.com/lukasmasuch/best-of-crypto
@@ -187,7 +187,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇10 ·  ⭐ 15) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-- [GitHub](https://github.com/thumbor/awesome-thumbor) (👨‍💻 4 · 🔀 3 · ⏱️ 05.10.2022):
+- [GitHub](https://github.com/thumbor/awesome-thumbor) (👨‍💻 4 · 🔀 3 · ⏱️ 12.10.2022):
 
 	```
 	git clone https://github.com/thumbor/awesome-thumbor
