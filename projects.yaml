@@ -82,4 +82,7 @@ projects:
     category: "blockchain"
   - name: thumbor/awesome-thumbor
     github_id: thumbor/awesome-thumbor
- 
+  - name: best-of-django
+    github_id: fkromer/best-of-django
+    labels: ["python"]
+    category: "web-dev"
