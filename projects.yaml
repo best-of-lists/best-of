@@ -86,3 +86,7 @@ projects:
     github_id: fkromer/best-of-fastapi
     labels: ["python"]
     category: "web-dev"
+  - name: best-of-django
+    github_id: fkromer/best-of-django
+    labels: ["python"]
+    category: "web-dev"
