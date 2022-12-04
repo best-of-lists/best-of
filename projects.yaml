@@ -90,3 +90,5 @@ projects:
     github_id: fkromer/best-of-django
     labels: ["python"]
     category: "web-dev"
+  - name: best-of-ps
+    github_id: jinningwang/best-of-ps
