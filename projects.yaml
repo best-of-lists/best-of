@@ -92,3 +92,7 @@ projects:
     category: "web-dev"
   - name: best-of-ps
     github_id: jinningwang/best-of-ps
+  - name: best-of-vue
+    github_id: fkromer/best-of-vue
+    labels: ["javascript"]
+    category: "web-dev"
