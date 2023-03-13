@@ -96,3 +96,6 @@ projects:
     github_id: fkromer/best-of-vue
     labels: ["javascript"]
     category: "web-dev"
+  - name: best-of-scala
+    github_id: stkeky/best-of-scala
+    category: "programming-languages"
