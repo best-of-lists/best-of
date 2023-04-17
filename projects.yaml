@@ -24,6 +24,9 @@ categories:
   - category: "programming-languages"
     title: "Programming Languages"
     subtitle: "Best-of lists with general overviews on tools & libraries for a specific programming language."
+  - category: "internet
+    title: "Internet"
+    subtitle: "Best-of lists about internet, browsers, services, standards, identity and digital interactions"
   - category: "blockchain"
     title: "Cryptocurrencies & Blockchain"
     subtitle: "Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics related to blockchain."
@@ -99,3 +102,6 @@ projects:
   - name: best-of-scala
     github_id: stkeky/best-of-scala
     category: "programming-languages"
+  - name: best-of-digital-identity
+    github_id: jruizaranguren/best-of-digital-identity
+    category: "internet"
