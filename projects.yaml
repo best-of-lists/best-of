@@ -15,6 +15,9 @@ categories:
   - category: "web-dev"
     title: "Web Development"
     subtitle: "Best-of lists about react, vue, angular, html5, css, or other topics related to web development."
+  - category: "native-dev"
+    title: "Native Development"
+    subtitle: "Best-of lists about iOS, Andnroid or other topics related to native development."
   - category: "dev-tools"
     title: "Development Tools"
     subtitle: "Best-of lists about tools & libraries to help with software development."
@@ -102,6 +105,9 @@ projects:
   - name: best-of-scala
     github_id: stkeky/best-of-scala
     category: "programming-languages"
+  - name: best-of-react-native
+    github_id: fkromer/best-of-react-native
+    category: "native-dev"
   - name: best-of-digital-identity
     github_id: jruizaranguren/best-of-digital-identity
     category: "internet"
