@@ -78,7 +78,7 @@ projects:
     labels: ["javascript"]
     category: "web-dev"
   - name: best-of-mkdocs
-    github_id: pawamoy/best-of-mkdocs
+    github_id: mkdocs/catalog
     category: "documentation"
   - name: best-of-digital-gardens
     github_id: lyz-code/best-of-digital-gardens
