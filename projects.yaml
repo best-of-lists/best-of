@@ -111,3 +111,7 @@ projects:
   - name: best-of-digital-identity
     github_id: jruizaranguren/best-of-digital-identity
     category: "internet"
+  - name: awesome-gpts
+    github_id: taranjeet/awesome-gpts
+    labels: ["python"]
+    category: "data-engineering"
