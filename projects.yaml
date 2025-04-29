@@ -18,6 +18,9 @@ categories:
   - category: "native-dev"
     title: "Native Development"
     subtitle: "Best-of lists about iOS, Andnroid or other topics related to native development."
+  - category: "embedded-dev"
+    title: "Embedded Development"
+    subtitle: "Best-of lists about Embedded Linux or other topics related to embedded development."
   - category: "dev-tools"
     title: "Development Tools"
     subtitle: "Best-of lists about tools & libraries to help with software development."
@@ -108,6 +111,9 @@ projects:
   - name: best-of-react-native
     github_id: fkromer/best-of-react-native
     category: "native-dev"
+  - name: best-of-rust-on-embedded-linux
+    github_id: fkromer/best-of-rust-on-embedded-linux
+    category: "embedded-dev"
   - name: best-of-digital-identity
     github_id: jruizaranguren/best-of-digital-identity
     category: "internet"
