@@ -18,6 +18,9 @@ categories:
   - category: "native-dev"
     title: "Native Development"
     subtitle: "Best-of lists about iOS, Andnroid or other topics related to native development."
+  - category: "robot-dev"
+    title: "Robot Development"
+    subtitle: "Best-of lists about Robots or other topics related to robot development."
   - category: "embedded-dev"
     title: "Embedded Development"
     subtitle: "Best-of lists about Embedded Linux or other topics related to embedded development."
@@ -111,6 +114,9 @@ projects:
   - name: best-of-react-native
     github_id: fkromer/best-of-react-native
     category: "native-dev"
+  - name: best-of-robot-simulators
+    github_id: knmcguire/best-of-robot-simulators
+    category: "robot-dev"
   - name: best-of-rust-on-embedded-linux
     github_id: fkromer/best-of-rust-on-embedded-linux
     category: "embedded-dev"
