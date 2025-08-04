@@ -127,3 +127,6 @@ projects:
     github_id: taranjeet/awesome-gpts
     labels: ["python"]
     category: "data-engineering"
+  - name: best-of-nix
+    github_id: tolkonepiu/best-of-nix
+    category: "programming-languages"
