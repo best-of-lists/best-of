@@ -130,3 +130,6 @@ projects:
   - name: best-of-nix
     github_id: tolkonepiu/best-of-nix
     category: "programming-languages"
+  - name: best-of-mcp-servers
+    github_id: tolkonepiu/best-of-mcp-servers
+    category: "data-engineering"
