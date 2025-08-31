@@ -74,7 +74,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.VERSION  }}
-          release_name: "Update: ${{ env.VERSION  }}"
+          name: "Update: ${{ env.VERSION  }}"
           body_path: "latest-changes.md"
           draft: true
           prerelease: false
