@@ -42,7 +42,7 @@ jobs:
           sed -i 's:${{ env.PLACEHOLDER_REPO }}:'$GITHUB_REPOSITORY':g' ./CONTRIBUTING.md
           sed -i 's:'$(echo "${{ env.PLACEHOLDER_REPO }}" | sed "s:.*/::")':'$(echo "$GITHUB_REPOSITORY" | sed "s:.*/::")':g' ./config/header.md
       - name: push-update
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: ${{ env.SETUP_BRANCH }}
           commit_user_name: best-of setup

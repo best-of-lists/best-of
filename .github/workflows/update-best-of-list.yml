@@ -49,7 +49,7 @@ jobs:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
       - name: push-update
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}
           commit_user_name: best-of update
