@@ -320,6 +320,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 ## Related Resources
 
 - [**Awesome**](https://github.com/sindresorhus/awesome): Awesome lists about all kinds of interesting topics
+- [**RemoteOpenClaw**](https://remoteopenclaw.com): Open marketplace for AI skills and personas built on OpenClaw
 
 ## Contribution
 
