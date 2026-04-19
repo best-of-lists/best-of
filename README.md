@@ -210,6 +210,23 @@ _Best-of lists about tools & libraries to help with software development._
 </details>
 <br>
 
+<details><summary><b><a href="https://github.com/theihtisham/agent-shadow-brain">Agent Shadow Brain</a></b> (🥇15 ·  ⭐ 180+) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection. <code><img src="https://www.typescriptlang.org/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/theihtisham/agent-shadow-brain) (👨‍💻 1 · 🔀 15+ · 📋 5 - 20% open):
+
+	```
+	git clone https://github.com/theihtisham/agent-shadow-brain
+	```
+</details>
+<details><summary><b><a href="https://github.com/theihtisham/omni-skills-forge">Omni Skills Forge</a></b> (🥇14 ·  ⭐ 100+) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. <code><img src="https://www.typescriptlang.org/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/theihtisham/omni-skills-forge) (👨‍💻 1 · 🔀 8+ · 📋 3 - 30% open):
+
+	```
+	git clone https://github.com/theihtisham/omni-skills-forge
+	```
+</details>
+<br>
 ## Documentation
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
