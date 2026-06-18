@@ -68,7 +68,7 @@ _Best-of lists about machine learning, data engieering, data science, or other t
 </details>
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥈17 ·  ⭐ 1.2K) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-jupyter) (👨‍💻 14 · 🔀 90 · 📋 9 - 55% open · ⏱️ 02.06.2026):
+- [GitHub](https://github.com/ml-tooling/best-of-jupyter) (👨‍💻 14 · 🔀 90 · 📋 9 - 55% open · ⏱️ 12.06.2026):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-jupyter
@@ -82,9 +82,9 @@ _Best-of lists about machine learning, data engieering, data science, or other t
 	git clone https://github.com/e-tornike/best-of-ml-rust
 	```
 </details>
-<details><summary><b><a href="https://github.com/tolkonepiu/best-of-mcp-servers">best-of-mcp-servers</a></b> (🥈13 ·  ⭐ 92) - A ranked list of MCP servers. Updated weekly.</summary>
+<details><summary><b><a href="https://github.com/tolkonepiu/best-of-mcp-servers">best-of-mcp-servers</a></b> (🥈13 ·  ⭐ 95) - A ranked list of MCP servers. Updated weekly.</summary>
 
-- [GitHub](https://github.com/tolkonepiu/best-of-mcp-servers) (👨‍💻 7 · 🔀 110 · 📋 40 - 75% open · ⏱️ 03.06.2026):
+- [GitHub](https://github.com/tolkonepiu/best-of-mcp-servers) (👨‍💻 7 · 🔀 120 · 📋 42 - 73% open · ⏱️ 17.06.2026):
 
 	```
 	git clone https://github.com/tolkonepiu/best-of-mcp-servers
@@ -106,7 +106,7 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-web-python">best-of-web-python</a></b> (🥇18 ·  ⭐ 2.7K) - A ranked list of awesome python libraries for web.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-web-python) (👨‍💻 17 · 🔀 200 · 📋 7 - 42% open · ⏱️ 02.06.2026):
+- [GitHub](https://github.com/ml-tooling/best-of-web-python) (👨‍💻 17 · 🔀 200 · 📋 7 - 42% open · ⏱️ 12.06.2026):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-web-python
@@ -128,7 +128,7 @@ _Best-of lists about react, vue, angular, html5, css, or other topics related to
 	git clone https://github.com/fkromer/best-of-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/fkromer/best-of-fastapi">best-of-fastapi</a></b> (🥉9 ·  ⭐ 47) - List of automatically rated Python packages for FastAPI. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/fkromer/best-of-fastapi">best-of-fastapi</a></b> (🥉9 ·  ⭐ 48) - List of automatically rated Python packages for FastAPI. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/fkromer/best-of-fastapi) (👨‍💻 4 · 🔀 2 · ⏱️ 11.06.2026):
 
@@ -162,7 +162,7 @@ _Best-of lists about Robots or other topics related to robot development._
 
 <details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇17 ·  ⭐ 1.3K) - A Best-of-list of Robot Simulators, re-generated weekly..</summary>
 
-- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 15 · 🔀 99 · 📋 140 - 7% open · ⏱️ 10.06.2026):
+- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 15 · 🔀 100 · 📋 140 - 7% open · ⏱️ 18.06.2026):
 
 	```
 	git clone https://github.com/knmcguire/best-of-robot-simulators
@@ -194,7 +194,7 @@ _Best-of lists about tools & libraries to help with software development._
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇17 ·  ⭐ 1.3K) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 8 · 🔀 69 · 📋 14 - 64% open · ⏱️ 02.06.2026):
+- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 8 · 🔀 70 · 📋 14 - 64% open · ⏱️ 12.06.2026):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-python-dev
@@ -218,7 +218,7 @@ _Best-of lists about documentations & tools to create documentations._
 </details>
 <details><summary><b><a href="https://github.com/lyz-code/best-of-digital-gardens">best-of-digital-gardens</a></b> (🥉15 ·  ⭐ 550) - Ranked list of awesome digital gardens / second brains.</summary>
 
-- [GitHub](https://github.com/lyz-code/best-of-digital-gardens) (👨‍💻 24 · 🔀 29 · ⏱️ 10.06.2026):
+- [GitHub](https://github.com/lyz-code/best-of-digital-gardens) (👨‍💻 24 · 🔀 29 · ⏱️ 17.06.2026):
 
 	```
 	git clone https://github.com/lyz-code/best-of-digital-gardens
@@ -234,7 +234,7 @@ _Best-of lists with general overviews on tools & libraries for a specific progra
 
 <details><summary><b><a href="https://github.com/lukasmasuch/best-of-python">best-of-python</a></b> (🥇18 ·  ⭐ 4.5K) - A ranked list of awesome Python open-source libraries and tools... <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/lukasmasuch/best-of-python) (👨‍💻 18 · 🔀 320 · 📋 18 - 66% open · ⏱️ 22.05.2026):
+- [GitHub](https://github.com/lukasmasuch/best-of-python) (👨‍💻 18 · 🔀 320 · 📋 18 - 66% open · ⏱️ 12.06.2026):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-python
@@ -242,15 +242,15 @@ _Best-of lists with general overviews on tools & libraries for a specific progra
 </details>
 <details><summary><b><a href="https://github.com/stkeky/best-of-scala">best-of-scala</a></b> (🥉15 ·  ⭐ 290) - A ranked list of awesome Scala projects. Updated weekly.</summary>
 
-- [GitHub](https://github.com/stkeky/best-of-scala) (👨‍💻 18 · 🔀 26 · 📋 12 - 25% open · ⏱️ 05.06.2026):
+- [GitHub](https://github.com/stkeky/best-of-scala) (👨‍💻 18 · 🔀 26 · 📋 12 - 25% open · ⏱️ 12.06.2026):
 
 	```
 	git clone https://github.com/stkeky/best-of-scala
 	```
 </details>
-<details><summary><b><a href="https://github.com/tolkonepiu/best-of-nix">best-of-nix</a></b> (🥉13 ·  ⭐ 65) - A ranked list of the best resources in the Nix community. Updated weekly.</summary>
+<details><summary><b><a href="https://github.com/tolkonepiu/best-of-nix">best-of-nix</a></b> (🥉13 ·  ⭐ 66) - A ranked list of the best resources in the Nix community. Updated weekly.</summary>
 
-- [GitHub](https://github.com/tolkonepiu/best-of-nix) (👨‍💻 6 · 🔀 3 · ⏱️ 08.06.2026):
+- [GitHub](https://github.com/tolkonepiu/best-of-nix) (👨‍💻 6 · 🔀 3 · ⏱️ 15.06.2026):
 
 	```
 	git clone https://github.com/tolkonepiu/best-of-nix
@@ -266,7 +266,7 @@ _Best-of lists about internet, browsers, services, standards, identity and digit
 
 <details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇13 ·  ⭐ 180) - A ranked list of awesome Digital Identity open source..</summary>
 
-- [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 7 · 🔀 17 · ⏱️ 05.06.2026):
+- [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 7 · 🔀 17 · ⏱️ 14.06.2026):
 
 	```
 	git clone https://github.com/jruizaranguren/best-of-digital-identity
@@ -292,7 +292,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇13 ·  ⭐ 82) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-- [GitHub](https://github.com/thumbor/awesome-thumbor) (👨‍💻 5 · 🔀 4 · ⏱️ 06.06.2026):
+- [GitHub](https://github.com/thumbor/awesome-thumbor) (👨‍💻 5 · 🔀 4 · ⏱️ 11.06.2026):
 
 	```
 	git clone https://github.com/thumbor/awesome-thumbor
