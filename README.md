@@ -157,7 +157,7 @@ _Best-of lists about tools & libraries to help with software development._
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇10 ·  ⭐ 1.2K · 💤) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 8 · 🔀 53):
+- [GitHub](https://github.com/ml-tooling/best-of-python-dev) (👨‍💻 9 · 🔀 53):
 
 	```
 	git clone https://github.com/ml-tooling/best-of-python-dev
@@ -211,7 +211,7 @@ _Best-of lists with general overviews on tools & libraries for a specific progra
 
 _Best-of lists about internet, browsers, services, standards, identity and digital interactions_
 
-<details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇8 ·  ⭐ 180 · 📉) - A ranked list of awesome Digital Identity open source..</summary>
+<details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇8 ·  ⭐ 180) - A ranked list of awesome Digital Identity open source..</summary>
 
 - [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 7 · 🔀 16):
 
@@ -245,7 +245,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 	git clone https://github.com/thumbor/awesome-thumbor
 	```
 </details>
-<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 22) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
+<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 24) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
 
 - [GitHub](https://github.com/jinningwang/best-of-ps) (👨‍💻 9 · 🔀 1):
 
