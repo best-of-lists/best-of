@@ -131,9 +131,9 @@ _Best-of lists about iOS, Andnroid or other topics related to native development
 
 _Best-of lists about Robots or other topics related to robot development._
 
-<details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇10 ·  ⭐ 1.5K · 📈) - A Best-of-list of Robot Simulators, re-generated..</summary>
+<details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇10 ·  ⭐ 1.5K) - A Best-of-list of Robot Simulators, re-generated weekly..</summary>
 
-- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 17 · 🔀 110):
+- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 18 · 🔀 120):
 
 	```
 	git clone https://github.com/knmcguire/best-of-robot-simulators
@@ -253,7 +253,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 	git clone https://github.com/thumbor/awesome-thumbor
 	```
 </details>
-<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 28) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
+<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 29) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
 
 - [GitHub](https://github.com/jinningwang/best-of-ps) (👨‍💻 7 · 🔀 1):
 
