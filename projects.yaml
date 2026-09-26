@@ -133,3 +133,5 @@ projects:
   - name: best-of-mcp-servers
     github_id: tolkonepiu/best-of-mcp-servers
     category: "data-engineering"
+  - name: awesome-topics
+    github_id: mahmoudz/awesome-topics
