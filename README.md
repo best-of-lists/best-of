@@ -131,9 +131,9 @@ _Best-of lists about iOS, Andnroid or other topics related to native development
 
 _Best-of lists about Robots or other topics related to robot development._
 
-<details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇10 ·  ⭐ 1.5K) - A Best-of-list of Robot Simulators, re-generated weekly..</summary>
+<details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇10 ·  ⭐ 1.5K · 🐣) - A Best-of-list of Robot Simulators, re-generated..</summary>
 
-- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 18 · 🔀 120):
+- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 19 · 🔀 120):
 
 	```
 	git clone https://github.com/knmcguire/best-of-robot-simulators
@@ -179,7 +179,7 @@ _Best-of lists about tools & libraries to help with software development._
 
 _Best-of lists about documentations & tools to create documentations._
 
-<details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K) - A list of awesome MkDocs projects and plugins.</summary>
+<details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K · 💤) - A list of awesome MkDocs projects and plugins.</summary>
 
 - [GitHub](https://github.com/mkdocs/catalog) (👨‍💻 63 · 🔀 120):
 
@@ -245,21 +245,17 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
-
-- [GitHub](https://github.com/thumbor/awesome-thumbor) (👨‍💻 5 · 🔀 4):
-
-	```
-	git clone https://github.com/thumbor/awesome-thumbor
-	```
-</details>
-<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 29) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
+<details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 29 · 💤) - A weekly updated ranked list of popular open-source libraries and tools..</summary>
 
 - [GitHub](https://github.com/jinningwang/best-of-ps) (👨‍💻 7 · 🔀 1):
 
 	```
 	git clone https://github.com/jinningwang/best-of-ps
 	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💀) - Everything thumbor, awesomely curated & updated weekly.
 </details>
 
 ---
