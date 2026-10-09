@@ -199,7 +199,7 @@ _Best-of lists about documentations & tools to create documentations._
 
 _Best-of lists with general overviews on tools & libraries for a specific programming language._
 
-<details><summary><b><a href="https://github.com/stkeky/best-of-scala">best-of-scala</a></b> (🥉10 ·  ⭐ 290) - A ranked list of awesome Scala projects. Updated weekly.</summary>
+<details><summary><b><a href="https://github.com/stkeky/best-of-scala">best-of-scala</a></b> (🥉10 ·  ⭐ 300) - A ranked list of awesome Scala projects. Updated weekly.</summary>
 
 - [GitHub](https://github.com/stkeky/best-of-scala) (👨‍💻 18 · 🔀 25):
 
@@ -221,7 +221,7 @@ _Best-of lists about internet, browsers, services, standards, identity and digit
 
 <details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇8 ·  ⭐ 180) - A ranked list of awesome Digital Identity open source..</summary>
 
-- [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 7 · 🔀 16):
+- [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 8 · 🔀 16):
 
 	```
 	git clone https://github.com/jruizaranguren/best-of-digital-identity
