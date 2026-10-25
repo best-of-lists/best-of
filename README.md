@@ -221,7 +221,7 @@ _Best-of lists about internet, browsers, services, standards, identity and digit
 
 <details><summary><b><a href="https://github.com/jruizaranguren/best-of-digital-identity">best-of-digital-identity</a></b> (🥇8 ·  ⭐ 180) - A ranked list of awesome Digital Identity open source..</summary>
 
-- [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 8 · 🔀 16):
+- [GitHub](https://github.com/jruizaranguren/best-of-digital-identity) (👨‍💻 9 · 🔀 16):
 
 	```
 	git clone https://github.com/jruizaranguren/best-of-digital-identity
