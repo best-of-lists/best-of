@@ -117,9 +117,9 @@ _Best-of lists about iOS, Andnroid or other topics related to native development
 
 _Best-of lists about Robots or other topics related to robot development._
 
-<details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇10 ·  ⭐ 1.5K · 🐣) - A Best-of-list of Robot Simulators, re-generated..</summary>
+<details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇11 ·  ⭐ 1.5K · 🐣) - A Best-of-list of Robot Simulators, re-generated..</summary>
 
-- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 20 · 🔀 120):
+- [GitHub](https://github.com/knmcguire/best-of-robot-simulators) (👨‍💻 23 · 🔀 120):
 
 	```
 	git clone https://github.com/knmcguire/best-of-robot-simulators
