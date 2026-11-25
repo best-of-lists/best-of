@@ -133,3 +133,6 @@ projects:
   - name: best-of-mcp-servers
     github_id: tolkonepiu/best-of-mcp-servers
     category: "data-engineering"
+  - name: best-of-lean4
+    github_id: 34j/best-of-lean4
+    category: "programming-languages"
